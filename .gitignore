@@ -1,0 +1,4 @@
+venv/
+migrations/
+media/
+manage.py
