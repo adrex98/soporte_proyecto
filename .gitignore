@@ -2,3 +2,4 @@ venv/
 migrations/
 media/
 manage.py
+db.sqlite3
